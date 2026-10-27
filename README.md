@@ -63,9 +63,6 @@ hpc-backdoor-detector/
 ├── figures/                     # diagnostic plots + sweep result CSVs, all reproducible from src/*.py
 ├── report.pdf                   # short report (IEEE two-column format, 3 pages) - same as paper/main.pdf
 ├── docs/extended_report.pdf     # longer 7-page version with extra detail
-├── paper/                       # IEEE conference-format paper (IEEEtran, 9 pt, two-column)
-│   ├── main.tex, main.pdf
-│   └── figs/                    # column-width figures from src/make_paper_figures.py
 ├── requirements.txt
 └── README.md
 ```
