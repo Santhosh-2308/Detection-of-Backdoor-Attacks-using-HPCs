@@ -1,0 +1,14 @@
+{
+  "feature_names": [
+    "cache-references",
+    "cycles",
+    "LLC-loads"
+  ],
+  "feature_set": "raw",
+  "threshold": 0.97775390625,
+  "target_fpr": 0.01,
+  "cv_achieved_fpr": 0.01,
+  "contamination": 0.05,
+  "nu": 0.05,
+  "n_train_samples": 800
+}

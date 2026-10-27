@@ -1,0 +1,4 @@
+perturbation,baseline_zscore_detect_rate,ensemble_detect_rate
+uniform_10pct,1.0,1.0
+llc_spike_5pct,0.05,0.52
+stealthy_0.5pct,0.02,0.02
